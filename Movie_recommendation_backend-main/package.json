@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.15.1",
+    "uuid": "^11.1.0"
+  },
+  "name": "movie_recommendation_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matthewzegekwe/capstone_project.git"
+  },
+  "keywords": [],
+  "author": "chima marcel",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/matthewzegekwe/capstone_project.git"
+  },
+  "homepage": "https://github.com/matthewzegekwe/capstone_project.git"
+}
